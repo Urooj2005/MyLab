@@ -41,8 +41,7 @@ def main():
         print(f"Result: {multiply(num1, num2)}")
     elif choice == '4':
         print(f"Result: {divide(num1, num2)}")
-    else:
-        print("Invalid choice!")
+    
 
 if __name__ == "__main__":
     main()
